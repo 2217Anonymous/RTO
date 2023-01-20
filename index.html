@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <title>RTO Code FInd</title>
+    <style>
+        .hidden{
+            display:none
+        }
+    </style>
+</head>
+<body>
+    <div class="container" style="background-color:blueviolet">
+        <div class="jumbotron" style="background-color:blueviolet;color:aliceblue">
+
+            <div class="container col-md-6">
+                    <div class="form-group text-center font-weight-bold">
+                      <label>FIND RTO NO</label>
+                      <input type="search" placeholder="search" class="form-control">
+                    </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container col-md-6 hidden" id="result">
+        <table class="table">
+            <thead style="background-color:#8a2be2;color:#fff;">
+                <tr>
+                    <th scope="col">#</th>
+                    <th id="query" scope="col"></th>
+                </tr>              
+            </thead>
+            <tbody>
+                <tr>
+                    <th scope="row">Id</th>
+                    <td id="id"></td>
+                </tr>
+                <tr>
+                    <th scope="row">Code</th>
+                    <td id="code"></td>
+                </tr>
+                <tr>
+                    <th scope="row">Location</th>
+                    <td id="location"></td>
+                </tr>
+                <tr>
+                    <th scope="row">District</th>
+                    <td id="district"></td>
+                </tr>
+                <tr>
+                    <th scope="row">Type</th>
+                    <td id="type"></td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <script src="./assets/js/main.js"></script>
+</body>
+</html>

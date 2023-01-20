@@ -1,0 +1,996 @@
+[
+  {
+    "id": "01",
+    "code": "TN01",
+    "location": "Chennai (Central): Ayanavaram",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "11",
+    "code": "TN02",
+    "location": "Chennai (North West): Anna Nagar",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "21",
+    "code": "TN03",
+    "location": "Chennai (North East): Tondiarpet",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "31",
+    "code": "TN04",
+    "location": "Chennai (East): Royapuram",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "41",
+    "code": "TN05",
+    "location": "Chennai (North): Kolathur",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "51",
+    "code": "TN06",
+    "location": "Chennai (South East): Mandavelli",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "61",
+    "code": "TN07",
+    "location": "Chennai (South): Adyar",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "71",
+    "code": "TN09",
+    "location": "Chennai (West): K. K. Nagar",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "81",
+    "code": "TN10",
+    "location": "Chennai (South West): Virugambakkam",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "91",
+    "code": "TN11",
+    "location": "Tambaram",
+    "type": "RTO",
+    "district": "Chengalpattu"
+  },
+  {
+    "id": "101",
+    "code": "TN12",
+    "location": "Poonamallee",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "111",
+    "code": "TN13",
+    "location": "Ambattur",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "121",
+    "code": "TN14",
+    "location": "Sholinganallur",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "131",
+    "code": "TN15",
+    "location": "Ulundurpet",
+    "type": "RTO",
+    "district": "Kallakurichi"
+  },
+  {
+    "id": "141",
+    "code": "TN15Z",
+    "location": "Kallakurichi",
+    "type": "UO",
+    "district": "Kallakurichi"
+  },
+  {
+    "id": "151",
+    "code": "TN16",
+    "location": "Tindivanam",
+    "type": "RTO",
+    "district": "Villupuram"
+  },
+  {
+    "id": "161",
+    "code": "TN16Z",
+    "location": "Gingee",
+    "type": "UO",
+    "district": "Villupuram"
+  },
+  {
+    "id": "171",
+    "code": "TN18",
+    "location": "Red Hills",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "181",
+    "code": "TN18Y",
+    "location": "Gummidipoondi",
+    "type": "UO",
+    "district": "Tiruvallur"
+  },
+  {
+    "id": "191",
+    "code": "TN19",
+    "location": "Chengalpattu",
+    "type": "RTO",
+    "district": "Chengalpattu"
+  },
+  {
+    "id": "201",
+    "code": "TN19Z",
+    "location": "Madurantakam",
+    "type": "UO",
+    "district": "Chengalpattu"
+  },
+  {
+    "id": "211",
+    "code": "TN20",
+    "location": "Tiruvallur",
+    "type": "RTO",
+    "district": "Tiruvallur"
+  },
+  {
+    "id": "221",
+    "code": "TN20X",
+    "location": "Thiruthani",
+    "type": "UO",
+    "district": "Tiruvallur"
+  },
+  {
+    "id": "231",
+    "code": "TN21",
+    "location": "Kanchipuram",
+    "type": "RTO",
+    "district": "Kanchipuram"
+  },
+  {
+    "id": "241",
+    "code": "TN22",
+    "location": "Meenambakkam",
+    "type": "RTO",
+    "district": "Chennai"
+  },
+  {
+    "id": "251",
+    "code": "TN23",
+    "location": "Vellore",
+    "type": "RTO",
+    "district": "Vellore"
+  },
+  {
+    "id": "261",
+    "code": "TN23T",
+    "location": "Gudiyatham",
+    "type": "UO",
+    "district": "Vellore"
+  },
+  {
+    "id": "271",
+    "code": "TN24",
+    "location": "Krishnagiri",
+    "type": "RTO",
+    "district": "Krishnagiri"
+  },
+  {
+    "id": "281",
+    "code": "TN25",
+    "location": "Thiruvannamalai",
+    "type": "RTO",
+    "district": "Thiruvannamalai"
+  },
+  {
+    "id": "291",
+    "code": "TN27",
+    "location": "Salem",
+    "type": "Not In Use",
+    "district": "Salem"
+  },
+  {
+    "id": "301",
+    "code": "TN28",
+    "location": "Namakkal (North)",
+    "type": "RTO",
+    "district": "Namakkal"
+  },
+  {
+    "id": "311",
+    "code": "TN28Z",
+    "location": "Rasipuram",
+    "type": "UO",
+    "district": "Namakkal"
+  },
+  {
+    "id": "321",
+    "code": "TN29",
+    "location": "Dharmapuri",
+    "type": "RTO",
+    "district": "Dharmapuri"
+  },
+  {
+    "id": "331",
+    "code": "TN29W",
+    "location": "Palacode",
+    "type": "UO",
+    "district": "Dharmapuri"
+  },
+  {
+    "id": "341",
+    "code": "TN29Z",
+    "location": "Harur",
+    "type": "UO",
+    "district": "Dharmapuri"
+  },
+  {
+    "id": "351",
+    "code": "TN30",
+    "location": "Salem (West)",
+    "type": "RTO",
+    "district": "Salem"
+  },
+  {
+    "id": "361",
+    "code": "TN30W",
+    "location": "Omalur",
+    "type": "UO",
+    "district": "Salem"
+  },
+  {
+    "id": "371",
+    "code": "TN31",
+    "location": "Cuddalore",
+    "type": "RTO",
+    "district": "Cuddalore"
+  },
+  {
+    "id": "381",
+    "code": "TN31Z",
+    "location": "Panruti",
+    "type": "UO",
+    "district": "Cuddalore"
+  },
+  {
+    "id": "391",
+    "code": "TN32",
+    "location": "Villupuram",
+    "type": "RTO",
+    "district": "Villupuram"
+  },
+  {
+    "id": "401",
+    "code": "TN33",
+    "location": "Erode (East)",
+    "type": "RTO",
+    "district": "Erode"
+  },
+  {
+    "id": "411",
+    "code": "TN34",
+    "location": "Tiruchengode",
+    "type": "RTO",
+    "district": "Namakkal"
+  },
+  {
+    "id": "421",
+    "code": "TN34Z",
+    "location": "Kumarapalayam",
+    "type": "UO",
+    "district": "Namakkal"
+  },
+  {
+    "id": "431",
+    "code": "TN36",
+    "location": "Gobichettipalayam",
+    "type": "RTO",
+    "district": "Erode"
+  },
+  {
+    "id": "441",
+    "code": "TN36W",
+    "location": "Bhavani",
+    "type": "UO",
+    "district": "Erode"
+  },
+  {
+    "id": "451",
+    "code": "TN36Z",
+    "location": "Sathyamangalam",
+    "type": "UO",
+    "district": "Erode"
+  },
+  {
+    "id": "461",
+    "code": "TN37",
+    "location": "Coimbatore (South)",
+    "type": "RTO",
+    "district": "Coimbatore"
+  },
+  {
+    "id": "471",
+    "code": "TN37Z",
+    "location": "Sulur",
+    "type": "UO",
+    "district": "Coimbatore"
+  },
+  {
+    "id": "481",
+    "code": "TN38",
+    "location": "Coimbatore (North)",
+    "type": "RTO",
+    "district": "Coimbatore"
+  },
+  {
+    "id": "491",
+    "code": "TN39",
+    "location": "Tirupur (North)",
+    "type": "RTO",
+    "district": "Tirupur"
+  },
+  {
+    "id": "501",
+    "code": "TN39Z",
+    "location": "Avinashi",
+    "type": "UO",
+    "district": "Tirupur"
+  },
+  {
+    "id": "511",
+    "code": "TN40",
+    "location": "Mettupalayam",
+    "type": "RTO",
+    "district": "Coimbatore"
+  },
+  {
+    "id": "521",
+    "code": "TN41",
+    "location": "Pollachi",
+    "type": "RTO",
+    "district": "Coimbatore"
+  },
+  {
+    "id": "531",
+    "code": "TN41W",
+    "location": "Valparai",
+    "type": "UO",
+    "district": "Coimbatore"
+  },
+  {
+    "id": "541",
+    "code": "TN42",
+    "location": "Tirupur (South)",
+    "type": "RTO",
+    "district": "Tirupur"
+  },
+  {
+    "id": "551",
+    "code": "TN43",
+    "location": "Ooty",
+    "type": "RTO",
+    "district": "Nilgiris"
+  },
+  {
+    "id": "561",
+    "code": "TN43Z",
+    "location": "Gudalur",
+    "type": "UO",
+    "district": "Nilgiris"
+  },
+  {
+    "id": "571",
+    "code": "TN45",
+    "location": "Tiruchirapalli (West)",
+    "type": "RTO",
+    "district": "Tiruchirapalli"
+  },
+  {
+    "id": "581",
+    "code": "TN45Z",
+    "location": "Manapparai",
+    "type": "UO",
+    "district": "Tiruchirapalli"
+  },
+  {
+    "id": "591",
+    "code": "TN46",
+    "location": "Perambalur",
+    "type": "RTO",
+    "district": "Perambalur"
+  },
+  {
+    "id": "601",
+    "code": "TN47",
+    "location": "Karur",
+    "type": "RTO",
+    "district": "Karur"
+  },
+  {
+    "id": "611",
+    "code": "TN47X",
+    "location": "Manmangalam",
+    "type": "UO",
+    "district": "Karur"
+  },
+  {
+    "id": "621",
+    "code": "TN47Y",
+    "location": "Aravakurichi",
+    "type": "UO",
+    "district": "Karur"
+  },
+  {
+    "id": "631",
+    "code": "TN47Z",
+    "location": "Kulithalai",
+    "type": "UO",
+    "district": "Karur"
+  },
+  {
+    "id": "641",
+    "code": "TN48",
+    "location": "Srirangam",
+    "type": "RTO",
+    "district": "Tiruchirapalli"
+  },
+  {
+    "id": "651",
+    "code": "TN48Z",
+    "location": "Thuraiyur",
+    "type": "UO",
+    "district": "Tiruchirapalli"
+  },
+  {
+    "id": "661",
+    "code": "TN48Y",
+    "location": "Musiri",
+    "type": "UO",
+    "district": "Tiruchirapalli"
+  },
+  {
+    "id": "671",
+    "code": "TN48X",
+    "location": "Lalgudi",
+    "type": "UO",
+    "district": "Tiruchirapalli"
+  },
+  {
+    "id": "681",
+    "code": "TN49",
+    "location": "Thanjavur",
+    "type": "RTO",
+    "district": "Thanjavur"
+  },
+  {
+    "id": "691",
+    "code": "TN49Y",
+    "location": "Pattukottai",
+    "type": "UO",
+    "district": "Thanjavur"
+  },
+  {
+    "id": "701",
+    "code": "TN50",
+    "location": "Tiruvarur",
+    "type": "RTO",
+    "district": "Tiruvarur"
+  },
+  {
+    "id": "711",
+    "code": "TN50Y",
+    "location": "Thiruthuraipoondi",
+    "type": "UO",
+    "district": "Tiruvarur"
+  },
+  {
+    "id": "721",
+    "code": "TN50Z",
+    "location": "Mannargudi",
+    "type": "UO",
+    "district": "Tiruvarur"
+  },
+  {
+    "id": "731",
+    "code": "TN51",
+    "location": "Nagapattinam",
+    "type": "RTO",
+    "district": "Nagapattinam"
+  },
+  {
+    "id": "741",
+    "code": "TN52",
+    "location": "Sankagiri",
+    "type": "RTO",
+    "district": "Salem"
+  },
+  {
+    "id": "751",
+    "code": "TN54",
+    "location": "Salem (East)",
+    "type": "RTO",
+    "district": "Salem"
+  },
+  {
+    "id": "761",
+    "code": "TN55",
+    "location": "Pudukottai",
+    "type": "RTO",
+    "district": "Pudukottai"
+  },
+  {
+    "id": "771",
+    "code": "TN55Y",
+    "location": "Illuppur",
+    "type": "UO",
+    "district": "Pudukottai"
+  },
+  {
+    "id": "781",
+    "code": "TN55Z",
+    "location": "Aranthangi",
+    "type": "UO",
+    "district": "Pudukottai"
+  },
+  {
+    "id": "791",
+    "code": "TN56",
+    "location": "Perundurai",
+    "type": "RTO",
+    "district": "Erode"
+  },
+  {
+    "id": "801",
+    "code": "TN57",
+    "location": "Dindigul",
+    "type": "RTO",
+    "district": "Dindigul"
+  },
+  {
+    "id": "811",
+    "code": "TN57V",
+    "location": "Vedasandur",
+    "type": "RTO",
+    "district": "Dindigul"
+  },
+  {
+    "id": "821",
+    "code": "TN57W",
+    "location": "Batlagundu",
+    "type": "RTO",
+    "district": "Dindigul"
+  },
+  {
+    "id": "831",
+    "code": "TN58",
+    "location": "Madurai (South)",
+    "type": "RTO",
+    "district": "Madurai"
+  },
+  {
+    "id": "841",
+    "code": "TN58Y",
+    "location": "Usilampatti",
+    "type": "UO",
+    "district": "Madurai"
+  },
+  {
+    "id": "851",
+    "code": "TN58Z",
+    "location": "Thirumangalam",
+    "type": "UO",
+    "district": "Madurai"
+  },
+  {
+    "id": "861",
+    "code": "TN59",
+    "location": "Madurai (North)",
+    "type": "RTO",
+    "district": "Madurai"
+  },
+  {
+    "id": "871",
+    "code": "TN59V",
+    "location": "Vadipatti",
+    "type": "UO",
+    "district": "Madurai"
+  },
+  {
+    "id": "881",
+    "code": "TN59Z",
+    "location": "Melur",
+    "type": "UO",
+    "district": "Madurai"
+  },
+  {
+    "id": "891",
+    "code": "TN60",
+    "location": "Theni",
+    "type": "RTO",
+    "district": "Theni"
+  },
+  {
+    "id": "901",
+    "code": "TN60Z",
+    "location": "Uthamapalayam",
+    "type": "UO",
+    "district": "Theni"
+  },
+  {
+    "id": "911",
+    "code": "TN61",
+    "location": "Ariyalur",
+    "type": "RTO",
+    "district": "Ariyalur"
+  },
+  {
+    "id": "921",
+    "code": "TN63",
+    "location": "Sivaganga",
+    "type": "RTO",
+    "district": "Sivaganga"
+  },
+  {
+    "id": "931",
+    "code": "TN63Z",
+    "location": "Karaikudi",
+    "type": "UO",
+    "district": "Sivaganga"
+  },
+  {
+    "id": "941",
+    "code": "TN64",
+    "location": "Madurai (Central)",
+    "type": "RTO",
+    "district": "Madurai"
+  },
+  {
+    "id": "951",
+    "code": "TN65",
+    "location": "Ramanathapuram",
+    "type": "RTO",
+    "district": "Ramanathapuram"
+  },
+  {
+    "id": "961",
+    "code": "TN65Z",
+    "location": "Paramakudi",
+    "type": "UO",
+    "district": "Ramanathapuram"
+  },
+  {
+    "id": "971",
+    "code": "TN66",
+    "location": "Coimbatore (Central)",
+    "type": "RTO",
+    "district": "Coimbatore"
+  },
+  {
+    "id": "981",
+    "code": "TN67",
+    "location": "Virudhunagar",
+    "type": "RTO",
+    "district": "Virudhunagar"
+  },
+  {
+    "id": "991",
+    "code": "TN67W",
+    "location": "Aruppukottai",
+    "type": "UO",
+    "district": "Virudhunagar"
+  },
+  {
+    "id": "1001",
+    "code": "TN68",
+    "location": "Kumbakonam",
+    "type": "RTO",
+    "district": "Thanjavur"
+  },
+  {
+    "id": "1011",
+    "code": "TN69",
+    "location": "Thoothukudi",
+    "type": "RTO",
+    "district": "Thoothukudi"
+  },
+  {
+    "id": "1021",
+    "code": "TN70",
+    "location": "Hosur",
+    "type": "RTO",
+    "district": "Krishnagiri"
+  },
+  {
+    "id": "1031",
+    "code": "TN72",
+    "location": "Tirunelveli",
+    "type": "RTO",
+    "district": "Tirunelveli"
+  },
+  {
+    "id": "1041",
+    "code": "TN72V",
+    "location": "Valliyur",
+    "type": "UO",
+    "district": "Tirunelveli"
+  },
+  {
+    "id": "1051",
+    "code": "TN73",
+    "location": "Ranipet",
+    "type": "RTO",
+    "district": "Ranipet"
+  },
+  {
+    "id": "1061",
+    "code": "TN73Z",
+    "location": "Arakkonam",
+    "type": "UO",
+    "district": "Ranipet"
+  },
+  {
+    "id": "1071",
+    "code": "TN74",
+    "location": "Nagercoil",
+    "type": "RTO",
+    "district": "Kanniyakumari"
+  },
+  {
+    "id": "1081",
+    "code": "TN75",
+    "location": "Marthandam",
+    "type": "RTO",
+    "district": "Kanniyakumari"
+  },
+  {
+    "id": "1091",
+    "code": "TN76",
+    "location": "Tenkasi",
+    "type": "RTO",
+    "district": "Tenkasi"
+  },
+  {
+    "id": "1101",
+    "code": "TN76V",
+    "location": "Ambasamudram",
+    "type": "UO",
+    "district": "Tirunelveli"
+  },
+  {
+    "id": "1111",
+    "code": "TN77",
+    "location": "Attur",
+    "type": "RTO",
+    "district": "Salem"
+  },
+  {
+    "id": "1121",
+    "code": "TN77Z",
+    "location": "Vazhapadi",
+    "type": "UO",
+    "district": "Salem"
+  },
+  {
+    "id": "1131",
+    "code": "TN78",
+    "location": "Dharapuram",
+    "type": "RTO",
+    "district": "Tirupur"
+  },
+  {
+    "id": "1141",
+    "code": "TN78Z",
+    "location": "Udumalpet",
+    "type": "UO",
+    "district": "Tirupur"
+  },
+  {
+    "id": "1151",
+    "code": "TN79",
+    "location": "Sankarankovil",
+    "type": "RTO",
+    "district": "Tenkasi"
+  },
+  {
+    "id": "1161",
+    "code": "TN81",
+    "location": "Tiruchirapalli (East)",
+    "type": "RTO",
+    "district": "Tiruchirapalli"
+  },
+  {
+    "id": "1171",
+    "code": "TN81Z",
+    "location": "Thiruverumbur",
+    "type": "UO",
+    "district": "Tiruchirapalli"
+  },
+  {
+    "id": "1181",
+    "code": "TN82",
+    "location": "Mayiladuthurai",
+    "type": "RTO",
+    "district": "Mayiladuthurai"
+  },
+  {
+    "id": "1191",
+    "code": "TN82Z",
+    "location": "Sirkazhi",
+    "type": "RTO",
+    "district": "Mayiladuthurai"
+  },
+  {
+    "id": "1201",
+    "code": "TN83",
+    "location": "Vaniyambadi",
+    "type": "RTO",
+    "district": "Thirupattur"
+  },
+  {
+    "id": "1211",
+    "code": "TN83Y",
+    "location": "Ambur",
+    "type": "UO",
+    "district": "Thirupattur"
+  },
+  {
+    "id": "1221",
+    "code": "TN83Z",
+    "location": "Thirupattur",
+    "type": "UO",
+    "district": "Thirupattur"
+  },
+  {
+    "id": "1231",
+    "code": "TN84",
+    "location": "Srivilliputhur",
+    "type": "RTO",
+    "district": "Virudhunagar"
+  },
+  {
+    "id": "1241",
+    "code": "TN85",
+    "location": "Kundrathur",
+    "type": "RTO",
+    "district": "Kanchipuram"
+  },
+  {
+    "id": "1251",
+    "code": "TN86",
+    "location": "Erode (West)",
+    "type": "RTO",
+    "district": "Erode"
+  },
+  {
+    "id": "1261",
+    "code": "TN87",
+    "location": "Sriperumbudur",
+    "type": "RTO",
+    "district": "Kanchipuram"
+  },
+  {
+    "id": "1271",
+    "code": "TN88",
+    "location": "Namakkal (South)",
+    "type": "RTO",
+    "district": "Namakkal"
+  },
+  {
+    "id": "1281",
+    "code": "TN88Z",
+    "location": "Paramathi Velur",
+    "type": "UO",
+    "district": "Namakkal"
+  },
+  {
+    "id": "1291",
+    "code": "TN90",
+    "location": "Salem (South)",
+    "type": "RTO",
+    "district": "Salem"
+  },
+  {
+    "id": "1301",
+    "code": "TN91",
+    "location": "Chidambaram",
+    "type": "RTO",
+    "district": "Cuddalore"
+  },
+  {
+    "id": "1311",
+    "code": "TN91Y",
+    "location": "Neyveli",
+    "type": "UO",
+    "district": "Cuddalore"
+  },
+  {
+    "id": "1321",
+    "code": "TN91Z",
+    "location": "Virudhachalam",
+    "type": "UO",
+    "district": "Cuddalore"
+  },
+  {
+    "id": "1331",
+    "code": "TN92",
+    "location": "Thiruchendur",
+    "type": "RTO",
+    "district": "Thoothukudi"
+  },
+  {
+    "id": "1341",
+    "code": "TN93",
+    "location": "Mettur",
+    "type": "RTO",
+    "district": "Salem"
+  },
+  {
+    "id": "1351",
+    "code": "TN94",
+    "location": "Palani",
+    "type": "RTO",
+    "district": "Dindigul"
+  },
+  {
+    "id": "1361",
+    "code": "TN94Z",
+    "location": "Oddanchatram",
+    "type": "UO",
+    "district": "Dindigul"
+  },
+  {
+    "id": "1371",
+    "code": "TN95",
+    "location": "Sivakasi",
+    "type": "RTO",
+    "district": "Virudhunagar"
+  },
+  {
+    "id": "1381",
+    "code": "TN96",
+    "location": "Kovilpatti",
+    "type": "RTO",
+    "district": "Thoothukudi"
+  },
+  {
+    "id": "1391",
+    "code": "TN97",
+    "location": "Arani",
+    "type": "RTO",
+    "district": "Tiruvannamalai"
+  },
+  {
+    "id": "1401",
+    "code": "TN97Z",
+    "location": "Cheyyar",
+    "type": "UO",
+    "district": "Tiruvannamalai"
+  },
+  {
+    "id": "1411",
+    "code": "TN99",
+    "location": "Coimbatore(West)",
+    "type": "RTO",
+    "district": "Coimbatore"
+  }
+]
