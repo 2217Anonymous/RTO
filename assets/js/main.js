@@ -2,7 +2,7 @@ const search = document.querySelector("input")
 
 
 async function getJsonData(){
-   const responce = await fetch('../../assets/json/data.json')
+   const responce = await fetch('./assets/json/data.json')
    return await responce.json()
 }
 
